@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Roy, a PhD candidate at Masatricht University at the Research Centre for Education and the Labour Market (ROA).
+
 <!--
 **MeijerRoy/MeijerRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
